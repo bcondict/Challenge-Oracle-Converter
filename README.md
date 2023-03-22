@@ -1,4 +1,4 @@
-# Challenge-Oracle-Currency-Converter
+# Challenge Oracle Converter
 
 This is a converter made with Java programming language. Developed on Eclipse IDE.
 To run this project, you need to have Java installed on your computer.
